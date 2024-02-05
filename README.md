@@ -7,6 +7,7 @@ The purpose of this project is to conduct analysis on employees attrition in the
 - Identify key drivers and patterns associated with attrition to gain valuable insights
 
 ## Power BI Dashboard
+The Employee Attrition Dashboard can be found [here] https://www.novypro.com/project/employee-attrition-dashboard-8
 
 <img width="1000" alt="image" src="https://github.com/Vishal9190/Employee-Attrition-Analysis-using-Power-BI/assets/146066153/a4b2095c-5b9a-4dbf-b22a-a7109d0a3e06" height="500" align="middle">
 
